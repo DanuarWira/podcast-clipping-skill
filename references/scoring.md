@@ -1,28 +1,33 @@
-# Clip scoring
+# Clip scoring rubric
 
-Score each dimension from 0 to 5.
+Score each dimension 0 to 5. Record evidence, not intuition.
 
 - Hook: immediate tension, surprise, specificity, or strong question.
 - Payoff: clear answer, reveal, lesson, punchline, or emotional resolution.
-- Emotion: visible feeling, conflict, vulnerability, humor, awe, or stakes.
-- Clarity: understandable without the full podcast context.
-- Replay: dense insight, twist, quotable phrasing, or comment-worthy disagreement.
+- Emotion: feeling, conflict, vulnerability, humor, awe, or stakes.
+- Clarity: understandable without full-podcast context.
+- Replay: density, twist, quotable phrasing, or disagreement.
+- Visual: usable face, reaction, demo, prop, or screen change.
+- Audio: clean speech, expressive delivery, and usable source audio.
 
-Base score = Hook + Payoff + Emotion + Clarity + Replay.
+Raw score = sum of seven dimensions, maximum 35.
 
 Penalties:
 
-- minus 3: needs a long setup;
+- minus 3: slow opening or long setup;
 - minus 2: repeated point or weak ending;
 - minus 2: unclear pronouns or missing context;
-- minus 3: claim needs verification;
-- minus 5: rights, safety, or serious misleading-edit risk.
+- minus 3: qualifier removed or claim needs verification;
+- minus 3: poor visual or audio continuity;
+- minus 5: rights, safety, privacy, or serious misleading-edit risk.
 
-Priority bands:
+Adjusted score = raw score - penalties.
 
-- 21 to 25: select first;
-- 16 to 20: select if it adds a different angle;
-- 11 to 15: revise opening or reject;
-- 0 to 10: reject.
+Bands:
 
-Never use score as a prediction of guaranteed views. It is an editorial ranking signal.
+- 29 to 35: priority selection;
+- 23 to 28: select if angle differs from other clips;
+- 17 to 22: revise opening, context, or ending;
+- 0 to 16: reject or archive.
+
+Score confidence: high when transcript, audio, and visual evidence agree; medium when one evidence source is incomplete; low when timestamps or meaning are uncertain. Score is editorial ranking, never guaranteed views.
