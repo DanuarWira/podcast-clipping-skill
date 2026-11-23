@@ -22,4 +22,10 @@ Create depth-aware layers: background, text, subject mask, foreground details, a
 5. Animate one restrained entrance and exit.
 6. Preview full speed and paused frames; fix halo, tracking, readability, and overlap.
 
-Preserve slang, English switches, qualifiers, and negation. If tracking confidence is low, move text beside subject or remove effect. Pass only when hook is faithful, mask is clean, text is readable, and subtitle safe zone is clear. Human-review uncertain masks and meaning-changing hooks.
+Preserve slang, English switches, qualifiers, and negation. If tracking confidence is low, move text beside subject or remove effect.
+
+## Reference-derived patterns
+
+Use words-behind-person for high-value keywords, not every spoken word. A phrase can appear behind the head or torso while the subject remains in front, creating depth without hiding the speaker. Use the effect at semantic beats such as a number, result, contrast, or memorable noun. For multiple keywords, reveal them one at a time and keep the stack sparse. Pair the text with source-backed object highlights when the narration names a count or collection, such as properties or products; do not fabricate or imply objects that are absent.
+
+Pass only when hook is faithful, mask is clean, text is readable, and subtitle safe zone is clear. Human-review uncertain masks and meaning-changing hooks.
