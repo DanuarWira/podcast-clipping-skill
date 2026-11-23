@@ -13,6 +13,10 @@ metadata:
 
 # Motion Typography Skill
 
+## When to Use
+
+Use when a clip needs kinetic typography, text supers, reusable motion presets, or animated visual callouts.
+
 Use this skill to design text supers, kinetic typography, background treatments, sound accents, and reusable motion presets for short-form clips. Keep subtitles separate from decorative text. Every animation must improve hook clarity, explanation, rhythm, or payoff.
 
 ## Workflow
