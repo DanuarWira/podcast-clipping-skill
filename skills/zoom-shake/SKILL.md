@@ -21,4 +21,10 @@ Motion follows reveal, punchline, completed thought, reaction, shot boundary, or
 - Transition zoom: compatible shots only; do not hide a hard cut.
 - Follow crop: re-center per shot, not every frame unless required.
 
-Do not shake continuously or zoom into eyes, mouths, or cropped limbs. Check softness when exceeding source resolution. Disable shake for reduced-motion exports. Pass only when tracking stays attached, no edge reveal or warp appears, subtitles remain readable, and low-confidence tracking has human review or static fallback.
+Do not shake continuously or zoom into eyes, mouths, or cropped limbs. Check softness when exceeding source resolution. Disable shake for reduced-motion exports.
+
+## Reference-derived patterns
+
+Use a short 3D-style shake or directional zoom as a transition between two related shots, especially when the edit moves from a raw statement to a visual example. Keep the shake as a bridge, not a permanent look: enter from the outgoing shot, cross the cut, settle quickly on the incoming subject, and preserve the next frame's readability. Combine with tracked reframing when the speaker or object changes position. For numbers or named objects, add a visual highlight only when the source footage supports it.
+
+Pass only when tracking stays attached, no edge reveal or warp appears, subtitles remain readable, and low-confidence tracking has human review or static fallback.
