@@ -14,7 +14,11 @@ Use when replacing flat graphic rectangles with restrained blurred-glass overlay
 
 Use glass for labels, source cards, chapter markers, UI callouts, lower thirds, or CTA panels. Define purpose, content, face boxes, subtitle safe zone, hands, logos, and critical objects before styling.
 
-Use translucent fill, moderate backdrop blur, subtle border, minimal shadow, consistent radius/padding/easing, and one brand accent. Keep context visible. Replace glass with a solid high-contrast surface when readability or performance requires it.
+Use translucent fill, moderate backdrop blur, subtle border, minimal shadow, consistent radius/padding/easing, and one brand accent. Keep context visible. Use glass for structured information such as a counter, label, source card, or property/product callout; glass must not become a decorative replacement for every graphic.
+
+## Reference-derived patterns
+
+For a visual case study, a glass counter or compact data card can reinforce a spoken number, while individual objects in the footage receive a restrained highlight as the number is said. Treat the count as a claim: it must match the transcript and visible evidence. Use a glass card only where it improves comprehension; otherwise use text, a highlight, or no overlay. Do not copy a creator's exact layout, font, or timing.
 
 ## Anti-slop limits
 Do not make every element glass. Avoid blue-purple defaults, excessive glow, giant pills, decorative status dots, and glass over glass. Limit simultaneous glass surfaces to 1–2 unless composition requires more. Every overlay needs purpose and source-backed content.
